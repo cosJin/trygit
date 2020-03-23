@@ -11,3 +11,4 @@ added by ubuntu in lab.
 add by desktop after document push,before commit, try pull.
 cant pull,should commit or stash.
 try commit.
+add after remote change.
