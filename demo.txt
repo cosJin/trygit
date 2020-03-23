@@ -1,5 +1,5 @@
-add by desktop.
-add by document.
+add by desktop1.
+add by document1.
 add by desktop after document push,before commit, try pull.
 cant pull,should commit or stash.
 try commit.
