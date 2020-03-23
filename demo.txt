@@ -7,3 +7,6 @@ this is from desktop.
 this is from gitt.
 this is added by trygit.
 added by ubuntu in lab. 
+add by desktop after document push,before commit, try pull.
+cant pull,should commit or stash.
+try commit.
