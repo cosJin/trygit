@@ -37,6 +37,11 @@ import tensorflow as tf
 print('sdfsdf')
 ```
 
+    
     print('hello world')
+    print()
+    for i in range(10):
+        print(i)
 
 &emsp;&emsp;实现插入空格,首行空两格.阿萨法斯蒂芬阿萨法阿萨德发斯蒂芬阿萨德阿萨德
+
